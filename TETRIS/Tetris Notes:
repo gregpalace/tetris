@@ -1,0 +1,3 @@
+Tetris Notes: 
+
+Rotation-> Transpose(convert rows to columns) -> Reverse each row to get rotated matrix)
