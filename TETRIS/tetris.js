@@ -39,7 +39,7 @@ function collide(arena, player){
 	return false;
 }
 
-// Matrix for stuck pieces on bottom
+// Matrix for stuck pieces on bottom to hold.
 function createMatrix(w, h){
 	const matrix = [];
 	while (h--){
